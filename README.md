@@ -13,6 +13,7 @@ Projenin çalışabilmesi için aşağıdaki kütüphanelerin kurulu olması ger
 - NumPy
 - Matplotlib (isteğe bağlı, görselleştirme için)
 
-Bu bağımlılıkları yüklemek için aşağıdaki komutu kullanabilirsiniz:
-```bash
-pip install -r requirements.txt
+## Kurulum
+1. Bu depoyu klonlayın:
+   ```bash
+   git clone https://github.com/Ai-rezzak/person_ronaldo.git
